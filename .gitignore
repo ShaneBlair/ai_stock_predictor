@@ -1,0 +1,9 @@
+# Whitelisted Folders
+*
+!*/
+# Git essentials
+!.gitignore
+!.gitattributes
+!/LICENSE
+
+# Core & Sub Folders
